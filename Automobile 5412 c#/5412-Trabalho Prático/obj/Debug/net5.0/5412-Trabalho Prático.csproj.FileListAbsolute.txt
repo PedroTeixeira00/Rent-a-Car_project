@@ -1,0 +1,128 @@
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csprojAssemblyReference.cache
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+C:\Users\t0121084\source\repos\5412-Trabalho Prático\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csprojAssemblyReference.cache
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\T0121084\Projeto c#\OneDrive_2022-03-18\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.AssemblyReference.cache
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\New Version C# Project 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csprojAssemblyReference.cache
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\Pedro.Teixeira.TPSIP10.21\server-side\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.AssemblyReference.cache
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\projeto c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.AssemblyReference.cache
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\projeto revisão c# 5412\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.AssemblyReference.cache
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+D:\new project c# 5412\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.exe
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.deps.json
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.json
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.runtimeconfig.dev.json
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.dll
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\bin\Debug\net5.0\5412-Trabalho Prático.pdb
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.AssemblyInfo.cs
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.dll
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\refint\5412-Trabalho Prático.dll
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.pdb
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\5412-Trabalho Prático.genruntimeconfig.cache
+C:\Users\pedro\Downloads\Automobile 5412 c#\Automobile 5412 c#\5412-Trabalho Prático\obj\Debug\net5.0\ref\5412-Trabalho Prático.dll

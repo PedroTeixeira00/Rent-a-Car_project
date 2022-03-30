@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "5412-Trabalho Prático": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
